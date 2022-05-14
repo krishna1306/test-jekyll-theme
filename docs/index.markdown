@@ -10,4 +10,4 @@ This is the home page of my automation protocol
 - This is 2
 - This is 3
 
-Go to the [main page](www.google.com)
+Go to the [main page](about)
