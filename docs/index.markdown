@@ -4,3 +4,10 @@
 
 layout: home
 ---
+This is the home page of my automation protocol
+
+- This is 1
+- This is 2
+- This is 3
+
+Go to the [main page](www.google.com)
